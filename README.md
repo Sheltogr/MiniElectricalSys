@@ -1,2 +1,2 @@
 # MiniElectricalSys
-MBSE Mini project 
+MBSE Mini project kenedit
