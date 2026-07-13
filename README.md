@@ -1,0 +1,2 @@
+# MiniElectricalSys
+MBSE Mini project 
